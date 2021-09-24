@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/target
+/xraft-core/target
+/xraft-kvstore/target
+/xraft.iml
+/.idea
+/xraft-kvstore/xraft-kvstore.iml
+/xraft-core/xraft-core.iml
+xraft-parent.iml
+/xraft-parent.iml
+*.iml
